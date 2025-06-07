@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["opu1.daish.eu.org"];
-pub const RS_PUB_KEY: &str = "Sr1xylxkw11AhHU6KmaU2nbHx68VFm+Z7B6NFBKVNxs=";
+pub const RS_PUB_KEY: &str = "lPHnX93gEddpMM14UPpzyfJWgqciOgOWPsSaZGwXsxQ=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
